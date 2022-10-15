@@ -29,8 +29,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'blog',
     'blog_api',
-    'agovdata'
-
+    'adata'
 ]
 
 MIDDLEWARE = [
